@@ -37,7 +37,7 @@ Another DevOps tool box.
 One line install.
 
 ```bash
-wget -O - https://raw.githubusercontent.com/carmelosantana/shellper/master/install.sh | sudo bash
+wget -O - https://raw.githubusercontent.com/jaitnsongara/linux-admin-toolbox/linux-admin-toolbox/install.sh | sudo bash
 ```
 
 ---
