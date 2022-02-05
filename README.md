@@ -45,7 +45,7 @@ wget -O - https://raw.githubusercontent.com/jaitnsongara/linux-admin-toolbox/lin
 Alternatively you can clone the repository and run Shellper locally.
 
 ```bash
-git clone https://github.com/carmelosantana/shellper.git shellper
+git clone https://github.com/jaitnsongara/linux-admin-toolbox/blob/linux-admin-toolbox/install.sh shellper
 cd "shellper"
 chmod +x shellper.sh
 ```
