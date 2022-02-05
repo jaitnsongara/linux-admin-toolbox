@@ -106,19 +106,7 @@ Provisions a performance oriented PHP web server with the following:
 - memcached
 - Postfix
 
-## Support
-
-⭐ [Contact](https://github.com/carmelosantana/) for commercial support.
-
-## Funding
-
-If you find this project useful or use it in a commercial environment please consider donating today with one of the following options.
-
-- [PayPal](https://www.paypal.com/donate?hosted_button_id=5RKFT8CT6DAVE)
-- Bitcoin `bc1qhxu9yf9g5jkazy6h4ux6c2apakfr90g2rkwu45`
-- Ethereum `0x9f5D6dd018758891668BF2AC547D38515140460f`
-- Tron `TFw3D8UwduZJvx8J4FPPgPVZ2PPJfyXs3k`
 
 ## License
 
-The code is licensed [MIT](https://opensource.org/licenses/MIT) and the documentation is licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+The code is licensed [MIT](https://opensource.org/licenses/MIT) and the documentation is licensed [CC BY-SA 4.0]
